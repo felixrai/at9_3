@@ -1,9 +1,9 @@
-var imgAmarelo = "img/robotron-amarelo.png";
-var imgRosa = "img/robotron-rosa.png";
-var imgBranco = "img/robotron-branco.png";
-var imgPreto = "img/robotron-preto.png";
-var imgAzul = "img/robotron-azul.png";
-var imgVerme = "img/robotron-vermelho.png"
+var imgAmarelo = "robotron-amarelo.png";
+var imgRosa = "robotron-rosa.png";
+var imgBranco = "robotron-branco.png";
+var imgPreto = "robotron-preto.png";
+var imgAzul = "robotron-azul.png";
+var imgVerme = "robotron-vermelho.png"
 
 
 function myFunction() {
